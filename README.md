@@ -10,4 +10,5 @@
 Carga horária do curso: 38,5 horas, divididas em 153 aulas
 
 O Symfony 6 é um framework moderno e poderoso que permite que você desenvolva websites e aplicações web complexas com facilidade. Neste curso, você aprenderá tudo o que precisa para dominar o Symfony 6, desde os fundamentos até tópicos avançados como autenticação, autorização e uploads de arquivos.
+
 ---
